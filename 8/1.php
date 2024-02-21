@@ -26,7 +26,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     ob_end_flush();
     unset($_SESSION['time']);
 }
-
-// Заебися
 ?>
-
